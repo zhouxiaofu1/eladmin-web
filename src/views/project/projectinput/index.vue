@@ -112,7 +112,7 @@ export default {
   mixins: [initData],
   data() {
     return {
-      delLoading: false,
+      delLoading: false
     }
   },
   created() {
